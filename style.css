@@ -16,13 +16,13 @@ color: rgb(45, 14, 180);
 ul
 {
     position: relative;
-    transform:  skewY((-15deg));
+    transform:  skewY((-5deg));
 }
 
 ul
 {
     position: relative;
-    transform: skewY(-15deg);
+    transform: skewY(-5deg);
 }
 ul li
 {
