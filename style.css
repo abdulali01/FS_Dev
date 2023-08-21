@@ -47,3 +47,8 @@ ul li a
     letter-spacing: 0.05em;
     transition: 0.5s;
 }
+
+ul li:hover a
+{
+    color: aliceblue;
+}
