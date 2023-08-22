@@ -59,7 +59,7 @@ ul li:hover a
 
 header
 {
-    grid-column: 1/13;
+    grid-column: 1/10;
     grid-row: 1;
 }
 
@@ -71,7 +71,7 @@ aside
 
 article
 {
-    grid-column: 4/ 13;
+    grid-column: 4/ 10;
     grid-row: 2;
 }
 
@@ -83,7 +83,7 @@ article
 
   footer
   {
-    grid-column: 1/ 13;
+    grid-column: 1/ 10;
     grid-row: 3;
   }
 
