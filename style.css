@@ -69,7 +69,7 @@ aside
     grid-row: 2;
 }
 
-article portfolio_details
+article
 {
     grid-column: 4/ 13;
     grid-row: 2;
