@@ -54,5 +54,11 @@ ul li a
 
 ul li:hover a
 {
-    color: rgb(226, 14, 14);
+    color: rgb(225, 215, 215);
+}
+
+header
+{
+    grid-column: 1/13;
+    grid-row: 1;
 }
