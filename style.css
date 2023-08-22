@@ -81,6 +81,12 @@ article
     gap: 20px;
   }
 
+  footer
+  {
+    grid-column: 1 / 13;
+    grid-row: 3;
+  }
+
   header,
 footer 
 {
